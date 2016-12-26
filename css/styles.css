@@ -1,0 +1,51 @@
+body {
+	font-size: 16px;
+	color: #000000;
+	background-color: #008040;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: #0066ff;
+	border: 0;
+}
+.container {
+	position: relative;
+}
+.navbar-header {
+	position: left;
+}
+.navbar-brand div{
+	text-align: left;
+	margin-left: -200px;
+}
+.navbar-brand h1 {
+	color: #661400;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+
+}
+#nav-list {
+	margin: 10px;
+	background: #80ff80;
+	text-align: center;
+}
+
+.container section{
+	height: 1000px;
+	background: #00b38f;
+	width: 100%;
+	
+
+}
+.container, #Menu {
+	width: 100%;
+
+	
+}
+.row {
+	margin: 0 15px 0 15px;
+}
