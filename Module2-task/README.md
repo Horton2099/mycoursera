@@ -1,2 +1,0 @@
-# mycoursera
-Coursera Assignments
